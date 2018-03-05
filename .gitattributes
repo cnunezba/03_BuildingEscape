@@ -6,7 +6,7 @@
 *.txt text
 *.uproject text
 *.bat text
-*.c text
+*.c text linguist-language=cpp
 *.cxx text
 *.o -text
 *.lib -text
@@ -24,7 +24,7 @@
 *.proj text
 *.sln text
 Makefile text
-*.cs text
+*.cs text linguist-language=cpp
 *.py text
 *.ini text
 *.schema text
