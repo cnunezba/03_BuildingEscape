@@ -1,6 +1,6 @@
-*.cc text
-*.cpp text
-*.h text
+*.cc text linguist-language=cpp
+*.cpp text linguist-language=cpp
+*.h text linguist-language=cpp
 *.json text
 *.md text
 *.txt text
